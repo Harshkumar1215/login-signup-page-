@@ -8,4 +8,4 @@ login page -HTML
 <!-- link css file -->
     <link rel="stylesheet" href="login.css">
 <!-- change image path-->    
-    <img src="multimedia/image/7.jpg" alt="User Icon" class="img1"><br><br>
+    <img src="...IMAGE ICON PATH...." alt="User Icon" class="img1"><br><br>
